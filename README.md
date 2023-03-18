@@ -1,4 +1,6 @@
-#Repo do desafio de projeto da *DIO*
+# Potência Tech Angular Developer 
+**Powered by iFood**
 
 
-##Desafio de Projetos Git/GitHub
+
+### Repositório para organização dos meus estudos no bootcamp da DIO Angular
